@@ -1,0 +1,13 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "Daily JavaScript practice for SDET learning",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "day1": "node src/day1/day1.js"
+  },
+  "keywords": ["javascript", "sdet", "practice", "learning"],
+  "license": "MIT"
+}
