@@ -9,6 +9,13 @@ JavaScript is a versatile language that is widely used in web development. As an
 ## ISTQB Certification
 The ISTQB (International Software Testing Qualifications Board) certification is a globally recognized credential for software testers. It helps validate your testing skills and knowledge, opening doors to career advancement.
 
+## Quick start for this practice repo
+- `npm install` (optional, no dependencies yet)
+- `npm run day1`
+- After Day 1, run `npm run day2`
+- Open `src/day1/day1.js` and `src/day2/day2.js`
+- Edit the files and rerun to learn by doing
+
 ## Learning Path
 | Stage                | Topics                                | Resources                             |
 |---------------------|---------------------------------------|---------------------------------------|
