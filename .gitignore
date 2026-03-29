@@ -98,6 +98,10 @@ dist
 # Sveltekit cache directory
 .svelte-kit/
 
+# Generated Day 4 report files
+/src/day4/report.json
+/src/day4/report.html
+
 # vitepress build output
 **/.vitepress/dist
 
