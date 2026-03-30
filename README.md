@@ -114,4 +114,4 @@ A well-versed SDET can significantly impact the quality of software products and
 
 ## Conclusion
 
-Following this guide will help you build a strong foundation as a Software Development Engineer in Test and prepare you for the challenges ahead.
+Following this guide will help you build a strong foundation as a Software Development Engineer in Test and prepare you for the challenges ahead
